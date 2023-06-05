@@ -10,7 +10,7 @@
 
 ###
 
-<blockquote><p align="left">● 📍  Living in Santa Catarina, Brazil.<br>● 🎓  I will graduate in 2023/02 in the integrated technical course in informatics at the IFSC.<br>● 📚   I intend to study Computer Science at UFFS. </p></blockquote>
+<blockquote><p align="left">● 📍  Living in Santa Catarina, Brazil.<br>● 🎓  I will graduate in 2023/02 in the integrated technical course in informatics at IFSC.<br>● 📚   I intend to study Computer Science at UFFS. </p></blockquote>
 
  ###
 
