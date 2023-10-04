@@ -30,12 +30,6 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
-###
-
-
- ![Snake animation](https://github.com/Picolii/Picolii/blob/output/github-contribution-grid-snake.svg)
-
-###
 
 <h2 align="left"></h2>
 
