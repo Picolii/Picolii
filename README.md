@@ -2,29 +2,27 @@
 
 
 <!-- <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&height=30&lines=%F0%9F%91%8B+Hi+There+%F0%9F%91%8B" alt="Typing SVG" /></a></h2> -->
-<h1>Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
+
+
 
 ###
 
-<p align="left">My name is Bernardo Picoli, I'm from Brazil 🌎</p>
+<p align="center">My name is Bernardo Picoli, I'm from Brazil 🌎</p>
 
 ###
 
-<h3 align="left">About me</h3>
-
-###
-<p></p>
-<blockquote><p align="left">
+<h3 >About me</h3>
+<img  align="right" src="https://orhun.dev/img/crow.png">
  <p> ● 📍  Living in Santa Catarina, Brazil. </p>
- <p> ● 🎓  Graduated in 2023/02 in the integrated technical course in informatics at IFSC. </p>
+ <p> ● 🎓  Graduated in 2023/02 in the integrated technical course in informatics at IFSC. </p> 
  <p> ● 📚   Current studying Angular and TypeScript.</p> 
  <p> ● 💻  Working at  <a href="https://ravex.com.br/"><img width="60" src="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png"/></a> as a Junior Dev.</p>
- </p></blockquote>
 
- ###
-
+ 
+ 
 <!-- <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&height=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Worked+With+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h2> -->
-<h2>Worked with👨‍💻</h2>
+<h2>👨‍💻 Worked with</h2>
 
 ###
 
@@ -41,7 +39,7 @@
 </div>
 
 
-<h2 align="left">Learning 📖</h2
+<h2 align="left">📖 Learning</h2
 
 ###
 
@@ -51,19 +49,11 @@
  
 </div>
 
-
-<h2 align="left"></h2
-
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Picolii/count.svg?"  />
-</div>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
-###
-
-<h2 align="left"></h2>
-
-###
 
 
