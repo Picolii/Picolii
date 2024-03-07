@@ -13,7 +13,7 @@
 ###
 
 <h3 >About me</h3>
-<img  align="right" src="https://orhun.dev/img/crow.png">
+<!-- <img  align="right" src="https://orhun.dev/img/crow.png"> -->
  <p> ● 📍  Living in Santa Catarina, Brazil. </p>
  <p> ● 🎓  Graduated in 2023/02 in the integrated technical course in informatics at IFSC. </p> 
  <p> ● 📚   Current studying Angular and TypeScript.</p> 
