@@ -16,7 +16,7 @@
 <!-- <img  align="right" src="https://orhun.dev/img/crow.png"> -->
  <p> ● 📍  Living in Santa Catarina, Brazil. </p>
  <p> ● 🎓  Graduated in 2023/02 in the integrated technical course in informatics at IFSC. </p> 
- <p> ● 📚   Current studying Angular and TypeScript.</p> 
+ <p> ● 📚   Current studying Angular, TypeScript, C# and MySQL.</p> 
  <p> ● 💻  Working at  <a href="https://ravex.com.br/"><img width="60" src="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png"/></a> as a Junior Dev.</p>
 <br>
 <h2>👨‍💻 Worked with</h2>
@@ -24,14 +24,13 @@
 ###
 
 <div align="left">
-  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>-->
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<!--   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> -->
   <img alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<!--   <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> -->
-  <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<!--   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
+  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>-->
+  <!--   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> -->
+  <!--   <img alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> -->
+  <!--   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> -->
 </div>
 
 <br>
@@ -41,8 +40,10 @@
 ###
 
 <div align="left">
- <img alt="TypeScript" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+ <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+ <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+ <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  
 </div>
 
