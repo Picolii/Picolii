@@ -6,12 +6,12 @@
 </div>
 
 <div>
-<h2>About me</h2>
- <p> ● 📍  Living in Santa Catarina, Brazil. </p>
- <p> ● 🎓  Graduated in 2023/02 in the integrated technical course in informatics at IFSC. </p> 
- <p> ● 🗒️  Studying Information Systems (BSIS) degree at Uniasselvi. </p> 
+<h3>About me</h3>
+ <p> ● 📍  Living in Santa Catarina, Brazil.</p>
+ <p> ● 🎓  Graduated in 2023/02 in the integrated technical course in informatics at IFSC.</p> 
+ <p> ● 🗒️  Studying Information Systems (BSIS) degree at Uniasselvi.</p> 
  <p> ● 📚  Currently studying Angular, TypeScript, C# and SQL Server.</p> 
- <p> ● 💻  Working at  <a href="https://ravex.com.br/"><img width="60" src="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png"/></a> as a Junior Dev.</p>
+ <p> ● 💻  Working at <a href="https://ravex.com.br/"><img width="60" src="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png"/></a> as a Junior Dev.</p>
 </div><br>
 
 <div align="left">
