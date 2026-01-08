@@ -17,7 +17,7 @@
   <source width="80" media="(prefers-color-scheme: light)" srcset="https://sistema.ravex.com.br/assets/images/ravex.svg">
   <img width="60" alt="Ravex" src="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png">
 </picture>
-</a> as a Junior Dev.</p>
+</a> as a fullstack dev.</p>
 </div><br>
 
 <div align="left">
