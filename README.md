@@ -13,9 +13,9 @@
  <p> ● 📚  Currently studying Angular, TypeScript, C# and SQL Server.</p> 
  <p> ● 💻  Working at <a href="https://ravex.com.br/">
 <picture>
-  <source width="60" media="(prefers-color-scheme: dark)" srcset="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png">
+  <source width="60" media="(prefers-color-scheme: dark)" srcset="https://ravex.com.br/wp-content/uploads/2025/05/Prancheta-78-2-scaled.png">
   <source width="80" media="(prefers-color-scheme: light)" srcset="https://sistema.ravex.com.br/assets/images/ravex.svg">
-  <img width="60" alt="Ravex" src="https://ravex.com.br/marketplace/wp-content/uploads/2022/05/cropped-cropped-Logo-Ravex-Vetor.png">
+  <img width="60" alt="Ravex" src="https://ravex.com.br/wp-content/uploads/2025/05/Prancheta-78-2-scaled.png">
 </picture>
 </a> as a fullstack dev.</p>
 </div><br>
